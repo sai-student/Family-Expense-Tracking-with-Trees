@@ -156,15 +156,13 @@ Ensure `users.txt`, `families.txt`, and `expenses.txt` exist in the same directo
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License** – feel free to use and contribute!
 
 ---
 
 ## 🙌 Authors
 
-Developed with 💻 and logic by **[Abhiram Vadhri]**
+Developed with 💻 and logic by **[Vakkalagadda Sai Tarun]**
 
 ---
 
